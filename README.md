@@ -6,8 +6,8 @@ Cat Boxers is a game built with Python using a UVA game engine. The game is a lo
 a/left arrow: move left<br>
 d/right arrow: move right<br>
 w/up arrow: punch<br>
-s/down arrow: block
+s/down arrow: block bruh
 
 # Screenshots
-lajdka
+
 ![Screenshots](https://raw.githubusercontent.com/eduardocis/Cat-Boxers/master/Cat%20Boxer%20Screenshots.png)
